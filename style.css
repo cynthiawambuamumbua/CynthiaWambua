@@ -1,0 +1,9 @@
+body{
+    background-image: url(images/mumbuaw.jpg);
+    background-color: aqua;
+    height: 500px;
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
